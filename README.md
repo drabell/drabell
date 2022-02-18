@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Dr. Alexander Bell, aka @drabell
-- 👀 I’m interested in Web and Mobile apps development
+- 👋 Web/Mobile apps development
