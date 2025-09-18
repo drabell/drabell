@@ -1,1 +1,3 @@
-- 👋 Web/Cloud/Mobile, Data/Algos Software Engineering; AI, Copilot, NLP, Speech Tech, ChatGPT, LLM, Vibe Coding/Prompt Engineering
+- Software Engineering (Full Stack)
+- Web, Cloud, Mobile
+- Data/Algos, AI, Copilot, NLP, Speech Tech, ChatGPT, LLM, Vibe Coding, Prompt Engineering
