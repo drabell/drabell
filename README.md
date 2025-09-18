@@ -1,1 +1,1 @@
-- 👋 Web/Cloud/Mobile apps development; AI, Copilot, NLP, LLM, Speech Tech
+- 👋 Web/Cloud/Mobile, Data/Algos Software Engineering; AI, Copilot, NLP, Speech Tech, ChatGPT, LLM, Vibe Coding/Prompt Engineering
