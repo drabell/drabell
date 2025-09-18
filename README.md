@@ -1,1 +1,1 @@
-- 👋 Web/Mobile apps development
+- 👋 Web/Cloud/Mobile apps development; AI, Copilot, NLP, LLM, Speech Tech
